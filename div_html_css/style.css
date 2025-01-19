@@ -1,0 +1,86 @@
+.header{
+  height: 100px;
+  background-color: rgb(94, 94, 245);
+}
+.container{
+  overflow: hidden;
+
+}
+.blog{
+  height: 150px;
+  float: left;
+  width: 60%;
+  background-color: rgb(7, 102, 70);
+}
+.contact{
+  height: 150px;
+  float: right;
+  width: 40%;
+  background-color: rgb(229, 127, 127);
+}
+.one{float: left;
+  height: 50px;
+  background-color: rgb(95, 75, 114);
+  width: 45%;
+}
+.two{float: left;
+  height: 50px;
+  background-color: rgb(28, 4, 51);
+  width: 35%;
+}
+.three{float: left;
+  height: 50px;
+  background-color: rgb(222, 199, 244);
+  width: 20%;
+}
+.one1{float: left;
+  height: 50px;
+  background-color: rgb(58, 169, 75);
+  width: 30%;
+}
+.two2{float: left;
+  height: 50px;
+  background-color: rgb(151, 146, 156);
+  width: 25%;
+}
+.three3{float: left;
+  height: 50px;
+  background-color: rgb(247, 107, 159);
+  width: 20%;
+}
+.five{float: left;
+  height: 50px;
+  background-color: rgb(204, 30, 56);
+  width: 5%;
+}
+.four{float: left;
+  height: 50px;
+  background-color: rgb(113, 4, 44);
+  width: 20%;
+}
+.i{float: left;
+  height: 50px;
+  background-color: rgb(235, 188, 80);
+  width: 30%;}
+.ii{
+  float: left;
+  height: 50px;
+  background-color: rgb(224, 64, 150);
+  width: 30%;
+}
+.iii{float: left;
+  height: 50px;
+  background-color: rgb(110, 201, 219);
+  width: 25%;}
+.iv{float: left;
+  height: 50px;
+  background-color: rgb(234, 99, 119);
+  width: 15%;}
+
+}
+
+.footer{
+  height: 300px;
+  background-color: rgb(92, 41, 41);
+  width: 80%;
+}
